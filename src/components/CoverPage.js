@@ -14,7 +14,7 @@ const CoverPage = () => {
       className="cover-page"
     >
       <Lottie className="balloon" animationData={balloon} size={5} />
-      <h1 className="heading">Happy Birthday Kalpana!!</h1>
+      <h1 className="heading">Happy Birthday Shivangi !!</h1>
 
       <Link
         className="link"
